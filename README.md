@@ -1,6 +1,6 @@
-# A repository to collect BBP and VDP program domains
+# Bug Bounty Domains
 
-Platfroms:
+This repository is a collection of domains of BBPs and VDPs on these platforms:
 * HackerOne
 * BugCrowd
 * Intigriti
